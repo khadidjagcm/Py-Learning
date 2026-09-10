@@ -35,7 +35,8 @@ The analysis includes:
 - Sales by country
 - Sales by gender
 - Monthly sales
-
+- top product
+  
 ## Data Visualization
 
 Different charts were created to visualize the main results and identify important trends in the data.
